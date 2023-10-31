@@ -1,6 +1,6 @@
 # Azure and Remote Desktop Project
 <p align="center">
-<img src="https://github.com/L3Renee/Azure and Remote Desktop Project/assets/147538608/64a55086-03ad-42bc-a09d-f1a3b3ef34cd"/>
+<img src="https://github.com/L3Renee/IT-Professional-Fundamentals/assets/147538608/33efc5c0-8bd0-4221-b932-13451b0bd289"/>
 
 </p>
 
