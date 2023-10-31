@@ -79,11 +79,11 @@ Remotely connected to virtual machine using remote desktop.
 Delete resource group and virtual machines.
 
 Demonstration
--  The use of this project is become familiar with using Azure and remote desktop. 
+-  The use of this project is to become familiar with using Azure and Remote Desktop. 
 -  As an IT professional you will have to remotely connect to your client's computer. Knowing how to use remote desktop would come in 
-   handy. 
--  Azure helps to build , run and manage applications across multiple clouds.
--  To create a microsoft azure free subscription go login.microsoftonline.com. It will prompt you to either sign in or create an 
+   handy with your IT career. 
+-  Azure helps to build, run and manage applications across multiple clouds.
+-  To create a microsoft azure free subscription go to login.microsoftonline.com. It will prompt you to either sign in or create an 
    account. 
 -  Type in resource group in the search bar. Click create.
 -  Make sure the subscription is free, type in the name of resource group, click review + create
@@ -93,7 +93,7 @@ Demonstration
 -  Type in what you want for the virtual machine, ex: VM1.
 -  Click on the region that you are in. 
 -  For image click Windows 10 for Windows VM and Ubuntu Server for Linux VM.
--  For the username and password remember it bc it is needed to remotely connect you VM's using remote desktop.
+-  For the username and password remember it bc it is needed to remotely connect your VM's using remote desktop.
 -  Click: I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.
 -  Click Review & Create.
 -  Once created click on Windows 10 VM to get the public IP Address. 
