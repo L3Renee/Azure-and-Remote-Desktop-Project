@@ -10,7 +10,8 @@ Brief description of  project
 - This tutorial outlines the prerequisites and installation of Azure. 
 - It shows how to download a free subscription. 
 - It shows how to create a resource group and virtual machines.
-- It shows how to remotely connect to Azure virtual machine.<br />
+- It shows how to remotely connect to Azure virtual machine.
+- It will show how to delete resource group and virtual machines in Azure. <br />
 
 <h2>Environments Used</h2>
 - Microsoft Azure 
@@ -78,31 +79,31 @@ Remotely connected to virtual machine using remote desktop.
 Delete resource group and virtual machines.
 
 <h2>Demonstration</h2>
-- The use of this project is become familiar with using Azure and remote desktop. 
-- As an IT professional you will have to remotely connect to your client's computer. Knowing how to use remote desktop would come in 
-  handy. 
-- Azure helps to build , run and manage applications across multiple clouds.
-- To create a microsoft azure free subscription go login.microsoftonline.com. It will prompt you to either sign in or create an 
-  account. 
-- Type in resource group in the search bar. Click create.
-- Make sure the subscription is free, type in the name of resource group, click review + create
-- Once validation pass, click create.
-- In search bar type virtual machine, click create, azure virtual machine.
-- Resource group, click on the drop down to the resource group that you created.
-- Type in what you want for the virtual machine, ex: VM1.
-- Click on the region that you are in. 
-- For image click Windows 10 for Windows VM and Ubuntu Server for Linux VM.
-- For the username and password remember it bc it is needed to remotely connect you VM's using remote desktop.
-- Click: I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.
-- Click Review & Create.
-- Once created click on Windows 10 VM to get the public IP Address. 
-- Download and install remote desktop.
-- Click add PC.
-- Type in IP Address for PC name , the username and password you created earlier.
-- You are now connected to Azure VM's.
-- When using a free subscription in Azure after you are done for the day you should always delete your resource groups and any 
-  virtual machines you created. This is to assure that you would not rack up cost and deplete your free Azure credits. 
-- Open the resource group tab. Click delete resource group. To make sure it's deleted, type in resource group and it should read: No 
+-  The use of this project is become familiar with using Azure and remote desktop. 
+-  As an IT professional you will have to remotely connect to your client's computer. Knowing how to use remote desktop would come in 
+   handy. 
+-  Azure helps to build , run and manage applications across multiple clouds.
+-  To create a microsoft azure free subscription go login.microsoftonline.com. It will prompt you to either sign in or create an 
+   account. 
+-  Type in resource group in the search bar. Click create.
+-  Make sure the subscription is free, type in the name of resource group, click review + create
+-  Once validation pass, click create.
+-  In search bar type virtual machine, click create, azure virtual machine.
+-  Resource group, click on the drop down to the resource group that you created.
+-  Type in what you want for the virtual machine, ex: VM1.
+-  Click on the region that you are in. 
+-  For image click Windows 10 for Windows VM and Ubuntu Server for Linux VM.
+-  For the username and password remember it bc it is needed to remotely connect you VM's using remote desktop.
+-  Click: I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.
+-  Click Review & Create.
+-  Once created click on Windows 10 VM to get the public IP Address. 
+-  Download and install remote desktop.
+-  Click add PC.
+-  Type in IP Address for PC name , the username and password you created earlier.
+-  You are now connected to Azure VM's.
+-  When using a free subscription in Azure after you are done for the day you should always delete your resource groups and any 
+   virtual machines you created. This is to assure that you would not rack up cost and deplete your free Azure credits. 
+-  Open the resource group tab. Click delete resource group. To make sure it's deleted, type in resource group and it should read: No 
   resource groups to display. 
 
 
