@@ -26,14 +26,13 @@ Brief description of  project
   
 
 - ### [YouTube: How To Create Azure Resource Group and Virtual Machine](https://youtu.be/uW1EFt_W1GY)
+<br />
 
 
 <img src="https://github.com/L3Renee/Practical-Exam-Project/assets/147538608/3a744520-24ce-46c6-a9cf-684b8cef086a"/>
 </p>
 <p>
-</p>
 <br />
-
 <img src="https://github.com/L3Renee/Practical-Exam-Project/assets/147538608/9895402e-1525-4d6b-b323-466e015add4a"/>
 </p>
 <p>
@@ -41,7 +40,7 @@ Created free subscription of Microsoft Azure.
 </p>
 <br />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=""https://github.com/L3Renee/Practical-Exam-Project/assets/147538608/17b6d8da-924d-48af-92f4-b19b21b5c7f5"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
