@@ -53,6 +53,17 @@ Created resource group in Azure.
 Two virtual machines were created in Azure, windows 10 and linux. 
 </p>
 <br />
+<img src="https://github.com/L3Renee/osTicket-examples/assets/147538608/87880e15-c492-4b5a-ac8f-40aadec7f965"/>
+</p>
+<p>
+Created a vitual machine. IP Address: 172.172.196.160.
+</p>
+<br />
+
+<img src="https://github.com/L3Renee/osTicket-examples/assets/147538608/6d511843-6569-4f88-9ad3-21f12b222d59"/>
+</p>
+<p>
+Remotely connected to virtual machine using remote desktop.
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
