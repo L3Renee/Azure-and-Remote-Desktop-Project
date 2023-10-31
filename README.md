@@ -78,7 +78,7 @@ Remotely connected to virtual machine using remote desktop.
 <p>
 Delete resource group and virtual machines.
 
-<h2>Demonstration</h2>
+Demonstration
 -  The use of this project is become familiar with using Azure and remote desktop. 
 -  As an IT professional you will have to remotely connect to your client's computer. Knowing how to use remote desktop would come in 
    handy. 
