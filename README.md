@@ -4,12 +4,13 @@
 
 </p>
 
-<h1>Project Summary </h1>
-Brief description of what the project is
-- This tutorial outlines the prerequisites and installation of Azure. 
-- It shows how to download a free subscription. 
-- It shows how to create a resource group and virtual machines.
-- It shows how to remotely connect to Azure virtual machine which is very useful when working remotely.<br />
+<h1>Project Summary </h1><br />
+
+<h1>Brief description of  project <h1>
+-  This tutorial outlines the prerequisites and installation of Azure. 
+-  It shows how to download a free subscription. 
+-  It shows how to create a resource group and virtual machines.
+-  It shows how to remotely connect to Azure virtual machine which is very useful when working remotely.<br />
 
 <h2>Environments Used</h2>
 - Microsoft Azure 
