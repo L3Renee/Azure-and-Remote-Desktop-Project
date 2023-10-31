@@ -40,7 +40,7 @@ Created free subscription of Microsoft Azure.
 </p>
 <br />
 
-<img src=""https://github.com/L3Renee/Practical-Exam-Project/assets/147538608/17b6d8da-924d-48af-92f4-b19b21b5c7f5"/>
+<img src="https://github.com/L3Renee/Practical-Exam-Project/assets/147538608/17b6d8da-924d-48af-92f4-b19b21b5c7f5"/>
 </p>
 <p>
 Created resource group in Azure. 
