@@ -50,7 +50,7 @@ Created resource group in Azure.
 <img src="https://github.com/L3Renee/Practical-Exam-Project/assets/147538608/915a136a-0960-4b3f-9a99-85d49371bb45"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Two virtual machines were created in Azure, windows 10 and linux. 
 </p>
 <br />
 
